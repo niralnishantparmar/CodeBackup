@@ -1,3 +1,2 @@
 # CodeBackup
-My Python projects and stuff 
-print ("hello")
+My old Python projects and stuff 
